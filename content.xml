@@ -1,0 +1,917 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260401231657W6NX9B</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260401231657WE7TXH</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>3.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>VOCES CRÍTICAS</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>ALBA MALLADA CIDONCHA</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Concreción Curricular de la SdA. Guía Docente</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0-beta2</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1775077597761</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mngjdc82-e296o612s</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>¡HACEMOS ARTE!</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>¡HACEMOS ARTE!</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>¡MISIÓN SOSTENIBLE!</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>¡HACEMOS ARTE!</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mngjdc82-e296o612s</odePageId>
+      <odeBlockId>block-1774427912454-n45gvpqyu</odeBlockId>
+      <blockName>¡HACEMOS ARTE!</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mngjdc82-e296o612s</odePageId>
+          <odeBlockId>block-1774427912454-n45gvpqyu</odeBlockId>
+          <odeIdeviceId>idevice-1774427912446-y3fk2zwxn</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>DESCRIPCIÓN DE LA SdA</p>
+<p><strong>Etapa</strong>: Esta SdA está dirigida para alumnos de 1ESO del Instituto de Enseñanza Secundaria de  NOREÑA, compuesto por alumnado muy heterogéneo y que cuenta con alumnos cuyas edades oscilan entre 12 y 18  años.</p>
+<p><strong>Área</strong>: Lengua Catellana y Literatura</p>
+<p><strong>Vinculación con otras áreas/materias/ámbito</strong>: Se trabajarán  otras áreas  como Tecnología, Música, Inglés</p>
+<p><strong>Agrupamientos y organización espacial</strong>: Los agrupamientos variarán en función de la actividad, alternando gran grupo (junto con el otro aula), pequeño grupo (el aula cuenta con 20 alumnos/as) y trabajo individual. Los agrupamientos serán heterogéneos y flexibles.</p>
+<p><strong>Temporalización</strong>: segundo trimestre ( 16 sesiones de 55minutos)</p>
+<p><strong>Productos intermedios y producto final</strong>: el producto intermedio será, entre otros, la realización de un Canva, posteriormente grabación aula ATECA. Finalmente se unirán todas las parte en un Podcast con un código QR que será impreso y colgado por los diferentes  pasillos y zonas comunes del profesorado para que lo escaneen y escuchen a los alumnos, así como, será subido a la página web del centro para que las familias y cualquier persona interesada lo pueda escuchar.</p>
+<p><strong>Recursos tecnológicos</strong>: internet, PDI, tablet, One drive, Padlet, .. (se detalla el uso de cada uno de ellos en las actividades que se explicarán en la tarea 2b de este módulo).</p>
+<p><strong>Herramientas tecnológicas</strong>:  Google Drive, Teams y Canva.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774427912446-y3fk2zwxn","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>DESCRIPCIÓN DE LA SdA</p>\n<p><strong>Etapa</strong>: Esta SdA está dirigida para alumnos de 1ESO del Instituto de Enseñanza Secundaria de  NOREÑA, compuesto por alumnado muy heterogéneo y que cuenta con alumnos cuyas edades oscilan entre 12 y 18  años.</p>\n<p><strong>Área</strong>: Lengua Catellana y Literatura</p>\n<p><strong>Vinculación con otras áreas/materias/ámbito</strong>: Se trabajarán  otras áreas  como Tecnología, Música, Inglés</p>\n<p><strong>Agrupamientos y organización espacial</strong>: Los agrupamientos variarán en función de la actividad, alternando gran grupo (junto con el otro aula), pequeño grupo (el aula cuenta con 20 alumnos/as) y trabajo individual. Los agrupamientos serán heterogéneos y flexibles.</p>\n<p><strong>Temporalización</strong>: segundo trimestre ( 16 sesiones de 55minutos)</p>\n<p><strong>Productos intermedios y producto final</strong>: el producto intermedio será, entre otros, la realización de un Canva, posteriormente grabación aula ATECA. Finalmente se unirán todas las parte en un Podcast con un código QR que será impreso y colgado por los diferentes  pasillos y zonas comunes del profesorado para que lo escaneen y escuchen a los alumnos, así como, será subido a la página web del centro para que las familias y cualquier persona interesada lo pueda escuchar.</p>\n<p><strong>Recursos tecnológicos</strong>: internet, PDI, tablet, One drive, Padlet, .. (se detalla el uso de cada uno de ellos en las actividades que se explicarán en la tarea 2b de este módulo).</p>\n<p><strong>Herramientas tecnológicas</strong>:  Google Drive, Teams y Canva.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mngjdc84-z7a1gblm8</odePageId>
+  <odeParentPageId>page-mngjdc82-e296o612s</odeParentPageId>
+  <pageName>INTENCIÓN EDUCATIVA</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>INTENCIÓN EDUCATIVA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>INTENCIÓN EDUCATIVA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mngjdc84-z7a1gblm8</odePageId>
+      <odeBlockId>block-1774428722286-s2x6v0zv1</odeBlockId>
+      <blockName>INTENCIÓN EDUCATIVA</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mngjdc84-z7a1gblm8</odePageId>
+          <odeBlockId>block-1774428722286-s2x6v0zv1</odeBlockId>
+          <odeIdeviceId>idevice-1774428722280-7z7hugjhh</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Justificación de su desarrollo</strong>:</p>
+<p>La publicidad forma parte del día a día del alumnado y transmite valores, a veces basados en estereotipos de género. Esta situación de aprendizaje busca desarrollar una mirada crítica y fomentar la igualdad, utilizando el lenguaje como herramienta de análisis y creación.</p>
+<p>El arte y las diferentes formas de expresión  pretendemos contribuir al desarrollo académico, personal y emocional de nuestro alumnado, fomentar la creatividad... contribuyendo al logro de su equilibrio emocional así como como de su autoestima y la adquisición de los saberes básicos. </p>
+<p>Con esta SdA intentamos promover la colaboración y el trabajo en equipo, fomentar la comunicación, al compartir ideas y técnicas, respetar las opiniones de los otros...</p>
+<p>Las tecnologías, el arte y la sostenibilidad no busca solo crear, sino también interpretar, reflexionar sobre las distintas obras trabajadas y despertar el gusto por el mismo.</p>
+<p>El podcast como producto final permite trabajar la expresión oral, la argumentación y la competencia digital, conectando con intereses reales del alumnado</p>
+<p>Tendrán la oportunidad no sólo de aprender, si no de crear sus propias obras, utilizando diferentes formas de expresión, y de convertirse en protagonistas de su propio aprendizaje, promoviendo la igualdad de oportunidades y el respeto a la diversidad.</p>
+<p><strong>Relación con los ODS</strong>:</p>
+<p><strong>ODS 4</strong>: "Educación de Calidad". El arte permite percibir lo que nos rodea de otra manera, la utilización de diferentes formas de expresión y comunicación y el desarrollo de una actitud crítica.</p>
+<p><strong>ODS 5</strong>: "Igualdad de género". Trabajaremos la coeducación y presentaremos a diferentes artistas tanto femeninos como masculinos.</p>
+<p><strong>ODS 12</strong>: "Producción y consumo responsable". Para las diferentes producciones artísticas utilizaremos materiales reciclados.</p>
+<p><strong>Relación con los retos del S XXI</strong>:</p>
+<p>Nos centraremos en trabajar aquellos que versan sobre el pensamiento crítico y la cultura digital, aprender a lo largo de la vida, resolución pacífica de conflictos, cooperar y convivir.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774428722280-7z7hugjhh","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Justificación de su desarrollo</strong>:</p>\n<p>La publicidad forma parte del día a día del alumnado y transmite valores, a veces basados en estereotipos de género. Esta situación de aprendizaje busca desarrollar una mirada crítica y fomentar la igualdad, utilizando el lenguaje como herramienta de análisis y creación.</p>\n<p>El arte y las diferentes formas de expresión  pretendemos contribuir al desarrollo académico, personal y emocional de nuestro alumnado, fomentar la creatividad... contribuyendo al logro de su equilibrio emocional así como como de su autoestima y la adquisición de los saberes básicos. </p>\n<p>Con esta SdA intentamos promover la colaboración y el trabajo en equipo, fomentar la comunicación, al compartir ideas y técnicas, respetar las opiniones de los otros...</p>\n<p>Las tecnologías, el arte y la sostenibilidad no busca solo crear, sino también interpretar, reflexionar sobre las distintas obras trabajadas y despertar el gusto por el mismo.</p>\n<p>El podcast como producto final permite trabajar la expresión oral, la argumentación y la competencia digital, conectando con intereses reales del alumnado</p>\n<p>Tendrán la oportunidad no sólo de aprender, si no de crear sus propias obras, utilizando diferentes formas de expresión, y de convertirse en protagonistas de su propio aprendizaje, promoviendo la igualdad de oportunidades y el respeto a la diversidad.</p>\n<p><strong>Relación con los ODS</strong>:</p>\n<p><strong>ODS 4</strong>: \"Educación de Calidad\". El arte permite percibir lo que nos rodea de otra manera, la utilización de diferentes formas de expresión y comunicación y el desarrollo de una actitud crítica.</p>\n<p><strong>ODS 5</strong>: \"Igualdad de género\". Trabajaremos la coeducación y presentaremos a diferentes artistas tanto femeninos como masculinos.</p>\n<p><strong>ODS 12</strong>: \"Producción y consumo responsable\". Para las diferentes producciones artísticas utilizaremos materiales reciclados.</p>\n<p><strong>Relación con los retos del S XXI</strong>:</p>\n<p>Nos centraremos en trabajar aquellos que versan sobre el pensamiento crítico y la cultura digital, aprender a lo largo de la vida, resolución pacífica de conflictos, cooperar y convivir.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mngjdc85-4rgfbac6a</odePageId>
+  <odeParentPageId>page-mngjdc82-e296o612s</odeParentPageId>
+  <pageName>ELEMENTOS CURRICULARES</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>ELEMENTOS CURRICULARES</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>ELEMENTOS CURRICULARES</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mngjdc85-4rgfbac6a</odePageId>
+      <odeBlockId>block-1774512553486-qdgku8gdd</odeBlockId>
+      <blockName>ELEMENTOS CURRICULARES</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mngjdc85-4rgfbac6a</odePageId>
+          <odeBlockId>block-1774512553486-qdgku8gdd</odeBlockId>
+          <odeIdeviceId>idevice-1774512553483-nypb1au81</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Competencias clave (descriptores operativos/perfil de salida)</strong>:</p>
+<p>Las competencias clave trabajadas son:</p>
+<p>Competencia en comunicación lingüística.<br />Competencia digital.<br />Competencia ciudadana.<br />Competencia en conciencia y expresiones culturales.<br />Estas competencias se relacionan con los descriptores operativos del perfil de salida STEM1, STEM2, STEM4, STEM5, CD1, CC4, CE1, CCEC1, CCEC2.</p>
+<p><strong>Competencias Específicas</strong>:</p>
+<p>1-<strong>Competencia específica 1 (CCSS)</strong>: Identificar las características de los diferentes elementos o sistemas del medio natural, social y cultural, analizando su organización y propiedades, y estableciendo relaciones entre los mismos, para reconocer el valor del patrimonio cultural y 2-2-<strong>2-Competencia específica 1 (Artística)</strong>: Descubrir propuestas artísticas de diferentes géneros, estilos, épocas y culturas, a través de la recepción activa, para desarrollar la curiosidad y el respeto por la diversidad.<br /><strong>3-Competencia específica 2 (Artística)</strong>: Investigar sobre manifestaciones culturales y artísticas y sus contextos, empleando diferentes canales, medios y técnicas, para disfrutar de ellas, entender su valor y empezar a desarrollar una sensibilidad artística propia.</p>
+<p><br /><strong>Saberes Básicos</strong>: </p>
+<ul>
+<li>La acción de las mujeres y hombres como protagonistas en la historia.</li>
+<li>Interpretación del papel de las personas y de los distintos grupos sociales: relaciones, conflictos, creencias y condicionantes en cada época histórica.</li>
+<li>Las expresiones artísticas y culturales prehistóricas y de la antigüedad y su contextualización histórica desde una perspectiva de género.</li>
+<li>La función del arte y la cultura en el mundo .</li>
+<li>Estrategias de recepción activa.</li>
+</ul>
+<p><strong>Criterios de evaluación relacionados con las competencias específicas</strong>: </p>
+<p>1.1. Identificar las características, la organización y las propiedades de los elementos del medio natural, social y cultural a través de la indagación y utilizando las herramientas y procesos adecuados.</p>
+<p>1.2. Identificar conexiones sencillas entre diferentes elementos del medio natural social y cultural mostrando comprensión de las relaciones que se establecen.</p>
+<p>1.3. Proteger el patrimonio natural y cultural y valorarlo como un bien común, adoptando conductas respetuosas para su disfrute y proponiendo acciones para su conservación y mejora.</p>
+<p><br />1.1. Descubrir propuestas artísticas de diferentes géneros, estilos, épocas y culturas, a través de la recepción activa y mostrando curiosidad y respeto por las mismas. </p>
+<p>1.2. Describir manifestaciones culturales y artísticas del entorno próximo, explorando sus características con actitud abierta e interés. </p>
+<p>2.1. Seleccionar y aplicar estrategias para la búsqueda guiada de información sobre manifestaciones culturales y artísticas, a través de canales y medios de acceso sencillos, tanto de forma individual como colectiva.</p>
+<p>2.2. Distinguir elementos característicos básicos de manifestaciones culturales y artísticas que forman parte del patrimonio, indicando los canales, medios y técnicas utilizados, analizando sus diferencias y similitudes y reflexionando sobre las sensaciones producidas, con actitud de interés y respeto.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774512553483-nypb1au81","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Competencias clave (descriptores operativos/perfil de salida)</strong>:</p>\n<p>Las competencias clave trabajadas son:</p>\n<p>Competencia en comunicación lingüística.<br />Competencia digital.<br />Competencia ciudadana.<br />Competencia en conciencia y expresiones culturales.<br />Estas competencias se relacionan con los descriptores operativos del perfil de salida STEM1, STEM2, STEM4, STEM5, CD1, CC4, CE1, CCEC1, CCEC2.</p>\n<p><strong>Competencias Específicas</strong>:</p>\n<p>1-<strong>Competencia específica 1 (CCSS)</strong>: Identificar las características de los diferentes elementos o sistemas del medio natural, social y cultural, analizando su organización y propiedades, y estableciendo relaciones entre los mismos, para reconocer el valor del patrimonio cultural y 2-2-<strong>2-Competencia específica 1 (Artística)</strong>: Descubrir propuestas artísticas de diferentes géneros, estilos, épocas y culturas, a través de la recepción activa, para desarrollar la curiosidad y el respeto por la diversidad.<br /><strong>3-Competencia específica 2 (Artística)</strong>: Investigar sobre manifestaciones culturales y artísticas y sus contextos, empleando diferentes canales, medios y técnicas, para disfrutar de ellas, entender su valor y empezar a desarrollar una sensibilidad artística propia.</p>\n<p><br /><strong>Saberes Básicos</strong>: </p>\n<ul>\n<li>La acción de las mujeres y hombres como protagonistas en la historia.</li>\n<li>Interpretación del papel de las personas y de los distintos grupos sociales: relaciones, conflictos, creencias y condicionantes en cada época histórica.</li>\n<li>Las expresiones artísticas y culturales prehistóricas y de la antigüedad y su contextualización histórica desde una perspectiva de género.</li>\n<li>La función del arte y la cultura en el mundo .</li>\n<li>Estrategias de recepción activa.</li>\n</ul>\n<p><strong>Criterios de evaluación relacionados con las competencias específicas</strong>: </p>\n<p>1.1. Identificar las características, la organización y las propiedades de los elementos del medio natural, social y cultural a través de la indagación y utilizando las herramientas y procesos adecuados.</p>\n<p>1.2. Identificar conexiones sencillas entre diferentes elementos del medio natural social y cultural mostrando comprensión de las relaciones que se establecen.</p>\n<p>1.3. Proteger el patrimonio natural y cultural y valorarlo como un bien común, adoptando conductas respetuosas para su disfrute y proponiendo acciones para su conservación y mejora.</p>\n<p><br />1.1. Descubrir propuestas artísticas de diferentes géneros, estilos, épocas y culturas, a través de la recepción activa y mostrando curiosidad y respeto por las mismas. </p>\n<p>1.2. Describir manifestaciones culturales y artísticas del entorno próximo, explorando sus características con actitud abierta e interés. </p>\n<p>2.1. Seleccionar y aplicar estrategias para la búsqueda guiada de información sobre manifestaciones culturales y artísticas, a través de canales y medios de acceso sencillos, tanto de forma individual como colectiva.</p>\n<p>2.2. Distinguir elementos característicos básicos de manifestaciones culturales y artísticas que forman parte del patrimonio, indicando los canales, medios y técnicas utilizados, analizando sus diferencias y similitudes y reflexionando sobre las sensaciones producidas, con actitud de interés y respeto.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mngjdc85-u0efyxe2j</odePageId>
+  <odeParentPageId>page-mngjdc85-4rgfbac6a</odeParentPageId>
+  <pageName>TAREAS Y ACTIVIDADES</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>TAREAS Y ACTIVIDADES</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>TAREAS Y ACTIVIDADES</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mngjdc85-u0efyxe2j</odePageId>
+      <odeBlockId>block-1774518989510-fs9srkzx1</odeBlockId>
+      <blockName>TAREAS Y ACTIVIDADES</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mngjdc85-u0efyxe2j</odePageId>
+          <odeBlockId>block-1774518989510-fs9srkzx1</odeBlockId>
+          <odeIdeviceId>idevice-1774518989502-mc32aednc</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong><em>TAREA 1 MOTIVACIÓN E INTRODUCCIÓN ¿QUÉ PRETENDE LA PUBLICIDAD?</em></strong></p>
+<p><strong>Sesión 1</strong>:</p>
+<ul>
+<li>Lluvia de ideas: ¿Qué es la publicidad?</li>
+<li><iframe width="560" height="314" src="https://www.youtube.com/embed/sSVT3dUrFGg?si=3d7gPBooGuV_ahtH" allowfullscreen="allowfullscreen"></iframe></li>
+<li>Visionado de anuncios.</li>
+<li>Debate inicial.</li>
+</ul>
+<p><strong>Sesión 2</strong>:Elementos del anuncio publicitario. Actividad: identificar partes de un anuncio.</p>
+<p><strong>Sesión 3</strong>:¿Qué es la coeducación? <span style="color: initial;">Reflexión guiada sobre igualdad</span></p>
+<p><em><strong><span style="color: initial;">TAREA 2 ANÁLISIS CRÍTICO ¿ES ENGAÑOSA LA PUBLICIDAD?</span></strong></em></p>
+<p><strong>Sesión 4</strong>:Introducción al concepto de publicidad sexista.</p>
+<p><strong>Sesión 5</strong>:Análisis guiado de anuncios .</p>
+<p><strong>Sesión 6</strong>:Trabajo en grupos: detectar estereotipos.</p>
+<p><strong>Sesión 7</strong>:Puesta en común + debate.</p>
+<p><strong>Sesión 8</strong>:Redacción de un texto de opinión: “¿Por qué un anuncio puede ser sexista?</p>
+<p><em><strong>TAREA 3 EXPRESIÓN Y CREACIÓN</strong></em></p>
+<p><strong>Sesión 9</strong>:El texto argumentativo (estructura básica).</p>
+<p><strong>Sesión 10</strong>:Introducción al podcast VIDEOTUTORIAL:¿Qué es? Tipos y ejemplos.</p>
+<p><strong></strong><strong>Sesión 11</strong>:Escritura del guión del podcast: Introducción<br />Análisis<br />Opinión<br />Cierre<br /><strong>Sesión 12</strong>:Ensayo de la grabación (entonación, ritmo, claridad).<br /><strong>Sesión 13</strong>:Grabación del podcast.<br /> <br />🔹 <strong>BLOQUE 4: DIFUSIÓN Y EVALUACIÓN </strong><br /><strong>Sesión 14</strong>:Edición básica del audio.<br /><strong>Sesión 15</strong>:Audición de los podcasts en clase.<br /><strong>Sesión 16</strong>:Evaluación + reflexión final:<br /><em><strong>¿Cómo influye la publicidad en nuestra forma de pensar?</strong></em><br /> <br /><br /> <br /> </p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774518989502-mc32aednc","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong><em>TAREA 1 MOTIVACIÓN E INTRODUCCIÓN ¿QUÉ PRETENDE LA PUBLICIDAD?</em></strong></p>\n<p><strong>Sesión 1</strong>:</p>\n<ul>\n<li>Lluvia de ideas: ¿Qué es la publicidad?</li>\n<li><iframe width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/sSVT3dUrFGg?si=3d7gPBooGuV_ahtH\" allowfullscreen=\"allowfullscreen\"></iframe></li>\n<li>Visionado de anuncios.</li>\n<li>Debate inicial.</li>\n</ul>\n<p><strong>Sesión 2</strong>:Elementos del anuncio publicitario. Actividad: identificar partes de un anuncio.</p>\n<p><strong>Sesión 3</strong>:¿Qué es la coeducación? <span style=\"color: initial;\">Reflexión guiada sobre igualdad</span></p>\n<p><em><strong><span style=\"color: initial;\">TAREA 2 ANÁLISIS CRÍTICO ¿ES ENGAÑOSA LA PUBLICIDAD?</span></strong></em></p>\n<p><strong>Sesión 4</strong>:Introducción al concepto de publicidad sexista.</p>\n<p><strong>Sesión 5</strong>:Análisis guiado de anuncios .</p>\n<p><strong>Sesión 6</strong>:Trabajo en grupos: detectar estereotipos.</p>\n<p><strong>Sesión 7</strong>:Puesta en común + debate.</p>\n<p><strong>Sesión 8</strong>:Redacción de un texto de opinión: “¿Por qué un anuncio puede ser sexista?</p>\n<p><em><strong>TAREA 3 EXPRESIÓN Y CREACIÓN</strong></em></p>\n<p><strong>Sesión 9</strong>:El texto argumentativo (estructura básica).</p>\n<p><strong>Sesión 10</strong>:Introducción al podcast VIDEOTUTORIAL:¿Qué es? Tipos y ejemplos.</p>\n<p><strong></strong><strong>Sesión 11</strong>:Escritura del guión del podcast: Introducción<br />Análisis<br />Opinión<br />Cierre<br /><strong>Sesión 12</strong>:Ensayo de la grabación (entonación, ritmo, claridad).<br /><strong>Sesión 13</strong>:Grabación del podcast.<br /> <br />🔹 <strong>BLOQUE 4: DIFUSIÓN Y EVALUACIÓN </strong><br /><strong>Sesión 14</strong>:Edición básica del audio.<br /><strong>Sesión 15</strong>:Audición de los podcasts en clase.<br /><strong>Sesión 16</strong>:Evaluación + reflexión final:<br /><em><strong>¿Cómo influye la publicidad en nuestra forma de pensar?</strong></em><br /> <br /><br /> <br /> </p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mngjdc85-mb7nnuiwc</odePageId>
+  <odeParentPageId>page-mngjdc82-e296o612s</odeParentPageId>
+  <pageName>METODOLOGÍAS ACTIVAS</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>METODOLOGÍAS ACTIVAS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>METODOLOGÍAS ACTIVAS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mngjdc85-mb7nnuiwc</odePageId>
+      <odeBlockId>block-1774512978756-kfkbstov1</odeBlockId>
+      <blockName>METODOLOGÍAS ACTIVAS</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mngjdc85-mb7nnuiwc</odePageId>
+          <odeBlockId>block-1774512978756-kfkbstov1</odeBlockId>
+          <odeIdeviceId>idevice-1774512978754-um0zwq5z8</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En esta SdA se utilizarán las siguientes metodologías activas: </p>
+<p>Aprendizaje basado en Proyectos <br />Aprendizaje cooperativo. <br />Estaciones de aprendizaje<br />Aprendizaje por descubrimiento. </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774512978754-um0zwq5z8","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En esta SdA se utilizarán las siguientes metodologías activas: </p>\n<p>Aprendizaje basado en Proyectos <br />Aprendizaje cooperativo. <br />Estaciones de aprendizaje<br />Aprendizaje por descubrimiento. </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mngjdc86-0fg2vs89t</odePageId>
+  <odeParentPageId>page-mngjdc82-e296o612s</odeParentPageId>
+  <pageName>VINCULACIÓN CON LOS PROGRAMAS Y PROYECTOS DE CENTRO</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>VINCULACIÓN CON LOS PROGRAMAS Y PROYECTOS DE CENTRO</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>VINCULACIÓN CON LOS PROGRAMAS Y PROYECTOS DE CENTRO</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mngjdc86-0fg2vs89t</odePageId>
+      <odeBlockId>block-1774513052885-0xxpf1xvb</odeBlockId>
+      <blockName>VINCULACIÓN CON OTROS PROGRAMAS</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mngjdc86-0fg2vs89t</odePageId>
+          <odeBlockId>block-1774513052885-0xxpf1xvb</odeBlockId>
+          <odeIdeviceId>idevice-1774513052884-x6eh3bi94</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Esta SdA está vinculada con el proyecto trimestral de centro: "El arte", además de estar vinculada con las actividades que se proponen en la PGA, ya que en torno a este proyecto giran todas las actividades que se desarrollan en este tiempo, así como con el Proyecto de Lectura Escritura e Innovación (PLEI) y el Plan de Digitalización.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774513052884-x6eh3bi94","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Esta SdA está vinculada con el proyecto trimestral de centro: \"El arte\", además de estar vinculada con las actividades que se proponen en la PGA, ya que en torno a este proyecto giran todas las actividades que se desarrollan en este tiempo, así como con el Proyecto de Lectura Escritura e Innovación (PLEI) y el Plan de Digitalización.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mngjdc86-69f1xz6cj</odePageId>
+  <odeParentPageId>page-mngjdc82-e296o612s</odeParentPageId>
+  <pageName>ACTIVIDADES COMPLEMENTARIAS Y EXTRAESCOLARES</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>ACTIVIDADES COMPLEMENTARIAS Y EXTRAESCOLARES</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>ACTIVIDAFES COMPLEMENTARIAS Y EXTRAESCOLARES</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>ACTIVIDADES COMPLEMENTARIAS Y EXTRAESCOLARES</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mngjdc86-69f1xz6cj</odePageId>
+      <odeBlockId>block-1774513214886-fm7tma6ai</odeBlockId>
+      <blockName>ACTIVIDADES COMPLEMENTARIAS</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mngjdc86-69f1xz6cj</odePageId>
+          <odeBlockId>block-1774513214886-fm7tma6ai</odeBlockId>
+          <odeIdeviceId>idevice-1774513214879-eh6qpdtgm</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En esta SdA, se proponen como actividades complementarias: </p>
+<p>- Visita al Museo de Bellas Artes de Asturias. </p>
+<p>- Participación en el proyecto del Ayuntamiento de Noreña: Mañana en Danza. </p>
+<p>- Elaboración de un PODCAST como producto final y común al centro. </p>
+<p>No se proponen actividades extraescolares relacionadas con esta SdA, ya que estas son desarrolladas por parte del AMPA del colegio</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774513214879-eh6qpdtgm","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En esta SdA, se proponen como actividades complementarias: </p>\n<p>- Visita al Museo de Bellas Artes de Asturias. </p>\n<p>- Participación en el proyecto del Ayuntamiento de Noreña: Mañana en Danza. </p>\n<p>- Elaboración de un PODCAST como producto final y común al centro. </p>\n<p>No se proponen actividades extraescolares relacionadas con esta SdA, ya que estas son desarrolladas por parte del AMPA del colegio</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mngjdc86-zt5vrzzqw</odePageId>
+  <odeParentPageId>page-mngjdc82-e296o612s</odeParentPageId>
+  <pageName>ATRIBUCIÓN Y FICHERO DESCARGABLE</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>ATRIBUCIÓN Y FICHERO DESCARGABLE</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>ATRIBUCIÓN Y FICHERO DESCARGABLE</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mngjdc86-zt5vrzzqw</odePageId>
+      <odeBlockId>block-1774513364040-frwc186ck</odeBlockId>
+      <blockName>ATRIBUCIÓN Y FICHERO DESCARGABLE</blockName>
+      <iconName>share</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mngjdc86-zt5vrzzqw</odePageId>
+          <odeBlockId>block-1774513364040-frwc186ck</odeBlockId>
+          <odeIdeviceId>idevice-1774513364038-5bn53lmja</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1774513364038-5bn53lmja" title="" href="{{context_path}}/content/resources/IMAGEN CD2.jfif" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/IMAGEN CD2.jfif" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774513364038-5bn53lmja","img_0":{"img":"{{context_path}}/content/resources/IMAGEN CD2.jfif","thumbnail":"{{context_path}}/content/resources/IMAGEN CD2.jfif","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
